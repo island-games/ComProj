@@ -1,2 +1,2 @@
-# ComProj
+# Community Project
 Ideas
